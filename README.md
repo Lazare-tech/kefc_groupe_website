@@ -211,5 +211,4 @@ Les captures d'écran permettent de présenter l'interface et les principales fo
 ## 🌐 Projet
 
 **Site institutionnel:** KEFC GROUP CONSULTING OFFICE SARL
-**Repository :** `Lazare-tech/site_cabinet`
 **Lien du site:** [https://kefcgroupconsultingoffice.com/]
